@@ -1,0 +1,34 @@
+{
+  "name": "exo3_shop_sezame_express",
+  "version": "0.1.0",
+  "description": "création d'une structure propre pour créer une appli e-commerce avec 4 pages : home avec un produit aléatoire, shop avec l'affichage des produits, detail avec l'affichage de tous les éléments d'un produit, enfin authentification avec un formulaire et une page admin listant tous les produits ",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "express",
+    "ejs",
+    "node",
+    "shop"
+  ],
+  "author": "lamia chebel",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}

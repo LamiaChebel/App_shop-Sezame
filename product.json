@@ -1,0 +1,29 @@
+[
+    {
+        "id": "3913686f-3698-4c64-9ca2-dd0d760d66be",
+        "title": "Robe noire",
+        "description": "classique avec une coupe asymétrique",
+        "seller": "she-zin",
+        "price": 9.99,
+        "category": "vêtement",
+        "url_img": "no_img.png"
+    },
+    {
+        "id": "a9352343-53fe-472a-adb1-cb6009d5f490",
+        "title": "Téléphone Samdung AAAAAAS89",
+        "description": "téléphone noire avec les dernières fonctionnalités du moment",
+        "seller": "ding-dong",
+        "price": 651,
+        "category": "multimédia",
+        "url_img": "no_img.png"
+    },
+    {
+        "id": "a942343-53fe-472a-adb1-cb6009gfd490",
+        "title": "Baballe jaune fluor",
+        "description": "Cette balle fera le bonheur de votre animal qui ne pourra plus s'en passer",
+        "seller": "Maxi-zou",
+        "price": 5.49,
+        "category": "animaux",
+        "url_img": "no_img.png"
+    }
+]
